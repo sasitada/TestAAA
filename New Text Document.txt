@@ -1,2 +1,2 @@
 TestAAAA
-bird------
+myname bird------
